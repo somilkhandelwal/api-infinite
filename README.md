@@ -5,6 +5,7 @@
 ## requirement
 1. DB - POSTGRES
 
+## ENV VARIABLES
 
 | environment variable         | value                                                   |
 |------------------------------|---------------------------------------------------------|
@@ -24,7 +25,7 @@
 | JWT_ACCESS_TOKEN_EXPIRES     | 5m                                                      |
 | JWT_REFRESH_TOKEN_EXPIRES    | 2h                                                      |
   
-  
+## Start in Dev Mode.
 After setting of env variables
 
 1. npm install
