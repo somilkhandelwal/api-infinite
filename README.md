@@ -2,7 +2,8 @@
 
 
 
-
+## requirement
+1. DB - POSTGRES
 
 
 | environment variable         | value                                                   |
